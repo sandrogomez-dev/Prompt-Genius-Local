@@ -106,6 +106,7 @@ label{
 #response {
     position: relative;
     font-size: 1.6rem;
+    font-style: italic;
     margin-top: 1.7rem;
     color: #333;
     background-color: #f9f9f9;
